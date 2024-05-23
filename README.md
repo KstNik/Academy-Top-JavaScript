@@ -1,1 +1,1 @@
-# Academy-Top-Javascript
+# Academy-Top-JavaScript
